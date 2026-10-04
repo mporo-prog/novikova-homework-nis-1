@@ -1,0 +1,9 @@
+
+.idea/
+
+.tests/__pycache__/
+.pytest_cache/
+.tests/.pytest_cache/
+.venv/
+
+docker-compose.yml
